@@ -8,7 +8,7 @@ Bienvenido a mi portfolio profesional, donde presento una selección de mis serv
 
 A continuación, una captura de la primera sección de mi portfolio:
 
-![Primera sección del portfolio](src/assets/preview/portfolio-home-preview.png)
+![Primera sección del portfolio](assets/preview/portfolio-home-preview.png)
 
 ---
 
